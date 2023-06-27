@@ -34,7 +34,10 @@ python3 server_encrypt_gpu.py -c ./utils/conf.json
 
 
 
+## Reference
 
+1. https://github.com/gxx777/phe_cuda
+2. https://github.com/heroding77/fedavg_encrypt
 
 
 
