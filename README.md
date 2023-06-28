@@ -34,6 +34,18 @@ python3 server_encrypt_gpu.py -c ./utils/conf.json
 
 
 
+# Performance
+
+![time1](pic/time1.png)
+
+
+
+![time1](pic/time2.png)
+
+
+
+
+
 ## Reference
 
 1. https://github.com/gxx777/phe_cuda
