@@ -34,7 +34,7 @@ python3 server_encrypt_gpu.py -c ./utils/conf.json
 
 
 
-# Performance
+## Performance
 
 ![time1](pic/time1.png)
 
